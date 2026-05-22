@@ -69,13 +69,13 @@ This dashboard gives a full picture of business performance across orders, reven
 
 ### Requirements
 - [Power BI Desktop](https://powerbi.microsoft.com/desktop/) — free, Windows only
-- File: `Assigmnent-1.pbix`
+- File: - <a href="https://github.com/ummehumaera1-droid/AdventureWorks_Sales_Dashboard/blob/main/Project-1.pbix">Project</a>
 
 ### Steps
 
 1. Install **Power BI Desktop**
 2. Download or clone this repository
-3. Open `Assigmnent-1.pbix` in Power BI Desktop
+3. Open <a href="https://github.com/ummehumaera1-droid/AdventureWorks_Sales_Dashboard/blob/main/Project-1.pbix">Project</a> in Power BI Desktop
 4. Use the **filter panel** to slice by date, region, or category
 5. Click on any chart to cross-filter other visuals on the page
 6. Use the **left sidebar icons** to navigate between the 4 report pages
@@ -86,7 +86,7 @@ This dashboard gives a full picture of business performance across orders, reven
 |---|---|---|
 | 🏠 | Executive Summary | KPIs, revenue & profit trends, gender split, subcategory revenue |
 | 📍 | Geographic View | Returns plotted on world map by region/country |
-| 📦 | Product Performance | Product table + subcategory-wise profit chart |
+| 📦 | Product Performance | Product table and subcategory-wise profit chart |
 | 👥 | Customer Details | Per-customer revenue, profit, cost, and order data |
 
 ---
@@ -100,25 +100,24 @@ This dashboard gives a full picture of business performance across orders, reven
 
 ---
 
-## 📁 Repository Structure
 
-```
-├── Assigmnent-1.pbix        # Power BI report file
-├── README.md                # This file
-└── screenshots/
-    ├── dashboard-overview.png
-    ├── map-view.png
-    ├── product-performance.png
-    └── customer-details.png
-```
-
----
 
 ## 👤 Author
 
 **Your Name**
-GitHub: [@your-username](https://github.com/your-username)
-
+GitHub: https://github.com/ummehumaera1-droid
 ---
 
-*Assignment 1 | Power BI | AdventureWorks Sales Analysis*
+## Dashboard
+<img width="1037" height="624" alt="Screenshot 2026-05-17 204316" src="https://github.com/user-attachments/assets/fabd04ad-96b7-4651-a060-6864cdff9b4b" />
+
+<img width="1044" height="633" alt="Screenshot 2026-05-16 204021" src="https://github.com/user-attachments/assets/d67507de-3470-4ef8-b6b6-1d574bd222bd" />
+
+<img width="1054" height="630" alt="Screenshot 2026-05-16 204133" src="https://github.com/user-attachments/assets/7067cf7f-2475-4a6e-b447-b5ff77f7fde9" />
+
+<img width="1051" height="633" alt="Screenshot 2026-05-16 204157" src="https://github.com/user-attachments/assets/f8af9c22-11b3-4b45-8521-9124298c2ab9" />
+
+
+
+
+*Project | Power BI | AdventureWorks Sales Analysis*
