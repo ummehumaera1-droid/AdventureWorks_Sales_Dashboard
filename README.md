@@ -19,17 +19,16 @@ This dashboard gives a full picture of business performance across orders, reven
 ## 📸 Dashboard Screenshots
 
 ### Page 1 — Executive Summary
-- <a href="https://github.com/ummehumaera1-droid/Coffee_Shop_Sales_Performance_Dashboard/blob/main/Coffee_Shop_Sales.xlsx">Executive Summary</a>
+- <a href="https://github.com/ummehumaera1-droid/AdventureWorks_Sales_Dashboard/blob/main/Screenshot%202026-05-17%20204316.png">Executive Summary</a>
 
 ### Page 2 — Geographic View
-![Geographic View](screenshots/map-view.png)
+- <a href="https://github.com/ummehumaera1-droid/AdventureWorks_Sales_Dashboard/blob/main/Screenshot%202026-05-17%20204316.png">Geographic View</a>
 
 ### Page 3 — Product Performance
-![Product Performance](screenshots/product-performance.png)
+- <a href="https://github.com/ummehumaera1-droid/AdventureWorks_Sales_Dashboard/blob/main/Screenshot%202026-05-16%20204133.png">Product Performance</a>
 
 ### Page 4 — Customer Details
-![Customer Details](screenshots/customer-details.png)
-
+- <a href="https://github.com/ummehumaera1-droid/AdventureWorks_Sales_Dashboard/blob/main/Screenshot%202026-05-16%20204157.png">Customer Details</a>
 ---
 
 ## 💡 Key Insights
