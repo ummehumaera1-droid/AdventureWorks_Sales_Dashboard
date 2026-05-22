@@ -69,7 +69,7 @@ This dashboard gives a full picture of business performance across orders, reven
 
 ### Requirements
 - [Power BI Desktop](https://powerbi.microsoft.com/desktop/) — free, Windows only
-- File: - <a href="https://github.com/ummehumaera1-droid/AdventureWorks_Sales_Dashboard/blob/main/Project-1.pbix">Project</a>
+- File: <a href="https://github.com/ummehumaera1-droid/AdventureWorks_Sales_Dashboard/blob/main/Project-1.pbix">Project</a>
 
 ### Steps
 
